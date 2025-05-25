@@ -1,8 +1,8 @@
-# [Your Full Name]  
-[Your Address (optional)]  
-📞 [Your Phone Number]  
-✉️ [Your Email Address]  
-🌐 [Your GitHub URL] | [LinkedIn URL]  
+# [Linfeng Jiang]  
+[7689 Palmilla Dr San Diego, CA 92122]  
+📞 [424-376-7239]  
+✉️ [j754424271@gmail.com]  
+🌐 [[Your GitHub URL](https://github.com/LINfeng3j)] | [[LinkedIn URL](https://www.linkedin.com/in/lj754424271/)]  
 📅 [Date]
 
 ---
